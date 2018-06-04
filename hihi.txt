@@ -2,4 +2,7 @@
 this is fifal
 =======
 ahahahahaha
+<<<<<<< HEAD
+>>>>>>> parent of 98c5e42... update lan 3
+=======
 >>>>>>> parent of 98c5e42... update lan 3
