@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 ahahahahaha
 
 Thay doi lam 3
+=======
+>>>>>>> parent of 6265dcd... upadte 2
